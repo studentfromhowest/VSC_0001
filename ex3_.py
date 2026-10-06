@@ -1,0 +1,5 @@
+print ("Whats your user name, age and first name? ")
+username = input()
+age = input()
+firstname = input()
+print (f"{username} {age} {firstname}")

@@ -1,0 +1,6 @@
+print("Enter number1:")
+number1 = int(input())
+print("Enter number2:")
+number2 = int(input())
+solution = (number1 + number2) * (number1 + number2)
+print (f"The result is {solution}")

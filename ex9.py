@@ -1,0 +1,5 @@
+print("Enter Celsius: ")
+Celsius = float(input())
+Fahrenheit = round((Celsius * 9/5) +32, 2)
+Kelvin = round(Celsius + 273.15, 2)
+print (f"The results are {Fahrenheit} in Fahrenheit and {Kelvin} in Kelvin")
